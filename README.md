@@ -4,6 +4,7 @@
 
 * [Introduction](#introduction)
 * [General references](#general-references)
+  * [Links](#links)
 * [API references](#api-references)
   * [Custom Node Access Permissions](#custom-node-access-permissions)
   * [Custom Form Validation](#custom-form-validation)
@@ -16,6 +17,11 @@ The goal of this cheat sheet is to help as a general pointer to push you in the 
 If you think something is missing or incorrect, don't hesitate to create a issue in the queue so I can have a look. Even better would be if you created a pull request and helped actively to improve this cheat sheet :smile:.
 
 ## General references
+
+### Links
+
+* [(MODULE) Examples For Developers][3]
+* [(GUIDE)  Installing PHPCS and configuring Drupal coding standards][4]
 
 ## API references
 
@@ -102,3 +108,5 @@ This might seem like the ideal solution, but note that this is very memory inten
 
 [1]: 'https://www.droptica.com/blog/drupal-node-grants/'
 [2]: 'https://atendesigngroup.com/articles/custom-permissions-node-access-grants-drupal-8-and-drupal-7'
+[3]: 'https://www.drupal.org/project/examples'
+[4]: 'https://www.drupal.org/node/1419988'
