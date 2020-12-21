@@ -20,8 +20,8 @@ If you think something is missing or incorrect, don't hesitate to create a issue
 
 ### Links
 
-* [(MODULE) Examples For Developers][3]
-* [(GUIDE)  Installing PHPCS and configuring Drupal coding standards][4]
+* [Examples For Developers][3]
+* [Installing PHPCS and configuring Drupal coding standards][4]
 
 ## API references
 
