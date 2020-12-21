@@ -20,8 +20,8 @@ If you think something is missing or incorrect, don't hesitate to create a issue
 
 ### Links
 
-* [Examples For Developers][3]
-* [Installing PHPCS and configuring Drupal coding standards][4]
+* [(MODULE) Examples For Developers][3]
+* [(GUIDE)  Installing PHPCS and configuring Drupal coding standards][4]
 
 ## API references
 
@@ -106,7 +106,7 @@ This might seem like the ideal solution, but note that this is very memory inten
 
 // todo: Add constraint + example.
 
-[1]: 'https://www.droptica.com/blog/drupal-node-grants/'
-[2]: 'https://atendesigngroup.com/articles/custom-permissions-node-access-grants-drupal-8-and-drupal-7'
-[3]: 'https://www.drupal.org/project/examples'
-[4]: 'https://www.drupal.org/node/1419988'
+[1]: https://www.droptica.com/blog/drupal-node-grants/
+[2]: https://atendesigngroup.com/articles/custom-permissions-node-access-grants-drupal-8-and-drupal-7
+[3]: https://www.drupal.org/project/examples
+[4]: https://www.drupal.org/node/1419988
