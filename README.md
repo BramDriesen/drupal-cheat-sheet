@@ -106,6 +106,16 @@ This might seem like the ideal solution, but note that this is very memory inten
 
 // todo: Add constraint + example.
 
+## Update hooks
+
+### Execute specific update hook (again)
+
+This is possible by triggering the update hook using drush.
+
+```bash
+drush php-eval "module_load_install('MYMODULE'); MYMODULE_update_NUMBER();"
+````
+
 [1]: https://www.droptica.com/blog/drupal-node-grants/
 [2]: https://atendesigngroup.com/articles/custom-permissions-node-access-grants-drupal-8-and-drupal-7
 [3]: https://www.drupal.org/project/examples
